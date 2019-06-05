@@ -2,7 +2,7 @@
 
 I put the notebooks presented today. 
 - In [julia_zygote.ipynb](julia_zygote.ipynb)  you will have the automatic differentiation stuff presented today (the Linear Regression from scratch).
-- In [arraBroadcasting.ipynb](arraBroadcasting.ipynb) there is the"brief" intro to Julia.
+- In [arraBroadcasting.ipynb](arrayBroadcasting.ipynb) there is the"brief" intro to Julia.
 - In [ViewFactors.ipynb](ViewFactors.ipynb) there is a viewFactors computations done in Julia, with some benchmarking.
 
 Some extra links:
